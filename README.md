@@ -4,14 +4,16 @@
 <div id="badges">
  
   <h1>
-    <div align="center">
+   <div id="header" align="center">
   Hello World! Welcome To My GitHub Profile! 
+     
+   My name is Elena. 
    
-    
-  My name is Elena. I'm a Software QA Automation Engineer. 
+   I'm a Software QA Automation Engineer. 
+  
+  <img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExYmV4Y3ZhYWo2bTB2eXc3M2hyaDliOW10N2d0eG1qNWc1ajRhMHhwayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/y34VPqGjuMbx00Fxc9/giphy.gif" width="100px"/>
   
  </div>
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
 </h1>
   
 </div>
