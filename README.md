@@ -1,7 +1,6 @@
 <div id="header" align="center">
-  <img src= "https://github.com/user-attachments/assets/008583f0-7544-431f-a876-19361210dda0" width="300"/>
+  <img src= "https://github.com/user-attachments/assets/8c56c7a3-594c-4233-84c2-d065bdaad1a4" width="300"/>
 </div>
-
 <div id="badges">
  
   <h1>
