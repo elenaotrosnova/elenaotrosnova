@@ -21,6 +21,20 @@
 <div align="center">
   ---
 
+### 📫: How to find Me:
+<div id="badges">
+  <a href="https://www.linkedin.com/in/elena-otrosnova-608a29367/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  
+</div>
+
+<div>
+
+
+<div align="center">
+  ---
+
 ### :hammer_and_wrench: Languages and Tools I Use :
 <div>
 
