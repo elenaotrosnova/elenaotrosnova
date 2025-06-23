@@ -37,8 +37,10 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/linkedin/linkedin-original.svg"  width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/webstorm/webstorm-original.svg"  width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/jira/jira-original.svg"  width="40" height="40"/>&nbsp;
-  
-  
+    <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/android/android-original.svg"  width="40" height="40"/>&nbsp;
+    <img src="https://github.com/devicons/devicon/blob/master/icons/icons/apple/apple-original.svg"  width="40" height="40"/>&nbsp;
+
 </div>
   
 </div>
