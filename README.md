@@ -5,18 +5,22 @@
 <div id="badges">
  
   <h1>
+    <div align="center">
   Hello World! Welcome To My GitHub Profile! 
-  
+   
     
   My name is Elena. I'm a Software QA Automation Engineer. 
-
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+  
+ </div>
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="40px"/>
 </h1>
   
 </div>
 
 <div align="center">
- :woman_technologist: L͢a͢n͢g͢u͢a͢g͢e͢s͢ a͢n͢d͢ t͢o͢o͢l͢s͢ I͢ u͢s͢e͢: : 
+  ---
+
+### :hammer_and_wrench: Languages and Tools I Use :
 <div>
 
 
